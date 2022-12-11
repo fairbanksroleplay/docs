@@ -10,7 +10,7 @@ const config = {
   tagline: "",
   url: "https://fbrp.xyz",
   baseUrl: "/",
-  onBrokenLinks: "pass",
+  onBrokenLinks: "log",
   onBrokenMarkdownLinks: "warn",
   favicon: "img/favicon.ico",
 
