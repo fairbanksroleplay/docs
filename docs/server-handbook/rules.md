@@ -10,7 +10,7 @@ If you are in violation of the below rules, you may receive a warning, kick or b
 
 Playing on Fairbanks Roleplay is free and is a privilege, not a right, staff reserve the right to restrict access to anyone. Undesirable players (rule breakers, trolls etc) may be removed from our community without prior notice or warning.
 
-:::danger Notice
+:::important Notice
 
 Please note that the following rules are not final and are subject to updates
 
