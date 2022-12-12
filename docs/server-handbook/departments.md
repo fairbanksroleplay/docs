@@ -6,6 +6,6 @@ sidebar_position: 4
 
 :::note Notice
 
-This section is currently under construction, information listed here may not be up to date
+Departments are currently temporarily closed for major updates, keep an eye on this page.
 
 :::
