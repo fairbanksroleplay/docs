@@ -268,7 +268,6 @@ To ensure roleplay is realistic as possible, Law Enforcement officers have a set
 
 <b>Weapons</b>
 
-- Sniper and Shotgun are <b>strictly</b> reserved for staff & department members
 - Must use the appropriate weapon - cannot use a G36C on patrol
 - Cannot withdraw an Assault Weapon from their person - must be grabbed from their trunk
 - Cannot shoot unarmed suspects for no reason
@@ -296,7 +295,7 @@ Here at Fairbanks Roleplay, we strictly enforce realistic driving, this must be 
 </details>
 <details>
   <summary><code>RP-18.</code> <b>Jurisdiction</b></summary>
-<b>Jurisdictions are currently not enforced, this rule is not required at this time.</b>
+<b>Jurisdictions are currently being enforced, this rule is required at this time.</b>
 
 Jurisdiction refers to the areas that a certain department can patrol and operate in, this is to ensure that Bank Security isn't on HW55 and Park Rangers aren't patrolling in the city. The only exception to jurisdictions is a high-priority call, such as a pursuit, robbery, gunfight etc, otherwise, you must remain in your correct juridiction at all times.
 
