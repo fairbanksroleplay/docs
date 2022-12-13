@@ -122,7 +122,50 @@ If you are involved in hostile roleplay resulting in the death of your character
 
 </details>
 <details>
-  <summary><code>RP-7.</code> <b>Banned Roleplays</b></summary>
+  <summary><code>RP-7.</code> <b>Banned Weapons</b></summary>
+<b>Effective immediately, the following firearms are banned from Fairbanks Roleplay.</b>
+
+The following firearms are banned from Fairbanks Roleplay for the sake of realism and professional roleplay, these weapons <b>cannot</b> be used by players at this time, including staff members.
+
+<b>Civilian</b>
+
+- M14
+- Colt Python
+- AK-47
+- LeMat Revolver
+- Remington 870
+- Remington MSR
+- PPSh-41
+- Skorpion
+- M249
+- Desert Eagle
+
+<b>Law Enforcement</b>
+
+- Orsis T 5000
+- G36C
+- Model 29
+- SPAS 12
+- Type 89
+- MP5
+
+</details>
+<details>
+  <summary><code>RP-8.</code> <b>Banned Vehicles</b></summary>
+<b>Note that these are subject to change at any time.</b>
+
+The following vehicles are banned and <b>strictly</b> reserved to Server Boosters and Staff Members only. If you use one of the following vehicles without appropriate permission, you will be subject to moderation action.
+
+- Avantismo R8
+- Chevlon Corbeta 8
+- Chevlon Corbeta TZ
+- Falcon Heritage
+- Silhouette Carbon
+- Strugatti Ettore
+
+</details>
+<details>
+  <summary><code>RP-9.</code> <b>Banned Roleplays</b></summary>
 <b>Keep in mind that the following roleplay may violate Roblox & PRC ToS.</b>
 
 We do understand that all of these events occur in real life, however some of these are sensitive subjects and we disallow the following roleplays:
@@ -140,7 +183,7 @@ Engaging in one of the above roleplays <i>may</i> result in permanent removal fr
 
 </details>
 <details>
-  <summary><code>RP-8.</code> <b>Scene Interference</b></summary>
+  <summary><code>RP-10.</code> <b>Scene Interference</b></summary>
 <b>Do not interfere with other scenes.</b>
 
 Interfering yourself with a scene that does not involve you is not tolerated, this means like running into a traffic stop and yelling at the police officer. If you see someone else mid gunfight, do not get involved - instead call the appropriate law enforcement.
@@ -155,7 +198,7 @@ We can and will remove players who think its okay for them to interfere with sce
 
 </details>
 <details>
-  <summary><code>RP-9.</code> <b>Fear Roleplay</b></summary>
+  <summary><code>RP-11.</code> <b>Fear Roleplay</b></summary>
 <b>You are required to be mindful of your life at all times.</b>
 
 This means if someone points a firearm at you, you must comply with their demands, you cannot pull out an assault rifle from your pocket and engage in a gun fight. For example, if you reply "kill me" and do not act fearful of losing your life, you are in violation of this rule.
@@ -165,7 +208,7 @@ The only exception to Fear Roleplay is Law Enforcement, Law Enforcement are trai
 
 </details>
 <details>
-  <summary><code>RP-10.</code> <b>Gang/Mafia Roleplay</b></summary>
+  <summary><code>RP-12.</code> <b>Gang/Mafia Roleplay</b></summary>
 <b>In compliance to Roblox Terms of Service, Gang Roleplay is banned.</b>
 
 Here at Fairbanks Roleplay, we do <b>not</b> allow Gang Roleplay, Gang Roleplay is the act of five or more people mass commiting crimes with disregards to rules, we completely prohibit this under all circumstances. Gang Roleplay <i>can</i> result in removal from our server, ranging from temporary to permanent.
@@ -182,7 +225,7 @@ The only roleplay regarding Mafias/Gangs is Crew/Groups, a Crew or group consist
 
 </details>
 <details>
-  <summary><code>RP-11.</code> <b>Robberies and Hostage Roleplay</b></summary>
+  <summary><code>RP-13.</code> <b>Robberies and Hostage Roleplay</b></summary>
 <b>You cannot "speedrun" robberies.</b>
 
 All robberies should be done within reason, not extensively and should be done accurately and realistically. You cannot attempt to rob multiple places in a short amount of time, this will be placed under Fail Roleplay and may result in removal from our server.
@@ -203,14 +246,14 @@ All robberies should be done within reason, not extensively and should be done a
 
 </details>
 <details>
-  <summary><code>RP-12.</code> <b>Baiting Law Enforcement</b></summary>
+  <summary><code>RP-14.</code> <b>Baiting Law Enforcement</b></summary>
 <b>You cannot bait Law Enforcement under any circumstances.</b>
 
 Do not bait emergency services, this includes things like drifting in front of police, randomly driving/running in and out of an active police scene, flying past a stationary vehicle at 100mph etc. Anything when you are trying to get the attention or a reaction out of Law Enforcement is <b>prohibited</b>.
 
 </details>
 <details>
-  <summary><code>RP-12.</code> <b>Law Enforcement Guidelines</b></summary>
+  <summary><code>RP-15.</code> <b>Law Enforcement Guidelines</b></summary>
 <b>Separate guidelines for Law Enforcement members.</b>
 
 To ensure roleplay is realistic as possible, Law Enforcement officers have a set list of guidelines that they are <b>required</b> to follow, this is to ensure quality of roleplay and realism. Ensure that you read and understand the following guidelines.
@@ -238,30 +281,28 @@ To ensure roleplay is realistic as possible, Law Enforcement officers have a set
 
 </details>
 <details>
-  <summary><code>RP-13.</code> <b>Priority Timer</b></summary>
+  <summary><code>RP-16.</code> <b>Priority Timer</b></summary>
 <b>The priority timer must be followed by all users.</b>
 
 Priority is a timer that is activated by staff whenever the server is too chaotic for staff to handle, or whether staff decide a server-wide roleplay cooldown is necessary. During priority, commiting crimes, involving yourself in pursuits, breaking rules or getting yourself wanted in any way is <b>prohibited</b>, and will result in removal from the server.
 
 </details>
 <details>
-  <summary><code>RP-14.</code> <b>Banned Vehicles</b></summary>
-<b>Note that these are subject to change at any time.</b>
-
-The following vehicles are banned and <b>strictly</b> reserved to Server Boosters and Staff Members only. If you use one of the following vehicles without appropriate permission, you will be subject to moderation action.
-
-- Avantismo R8
-- Chevlon Corbeta 8
-- Chevlon Corbeta TZ
-- Falcon Heritage
-- Silhouette Carbon
-- Strugatti Ettore
-
-</details>
-<details>
-  <summary><code>RP-15.</code> <b>Realistic Driving</b></summary>
+  <summary><code>RP-17.</code> <b>Realistic Driving</b></summary>
 <b>Realistic Driving is enforced and required.</b>
 
 Here at Fairbanks Roleplay, we strictly enforce realistic driving, this must be done by all users. This includes, roleplaying crashes, using turn signals, stopping at red lights and stop signs etc. The only exception to realistic driving is if the user is wanted, or if an emergency vehicle has their lights on. Civilians are <b>not</b> allowed to fly around the map at 100mph in an exotic.
+
+</details>
+<details>
+  <summary><code>RP-18.</code> <b>Jurisdiction</b></summary>
+<b>Jurisdictions are currently not enforced, this rule is not required at this time.</b>
+
+Jurisdiction refers to the areas that a certain department can patrol and operate in, this is to ensure that Bank Security isn't on HW55 and Park Rangers aren't patrolling in the city. The only exception to jurisdictions is a high-priority call, such as a pursuit, robbery, gunfight etc, otherwise, you must remain in your correct juridiction at all times.
+
+- Park Rangers <b>must</b> stay in jurisdiction at all times
+- Law Enforcement must <b>not</b> go into High Rock Park unless there is a call
+
+![Jurisdictions](/img/jd.png)
 
 </details>
